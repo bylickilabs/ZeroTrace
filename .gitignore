@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Python HTTP-Server (temporäre Dateien)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Uploads (nicht versionieren)
+uploads/
+
+# Logs & Fehlerausgaben
+*.log
+*.err
+*.out
+
+# IDE-spezifisch
+.vscode/
+.idea/
+.DS_Store
+
+# System-/Shell-Dateien
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# OS / PowerShell / Batch Cache
+*.ps1
+*.bat~
+
+# Build oder temporär generierte Dateien (z. B. zip-Downloads)
+*.zip
+*.tar.gz
+
+# Optional: Externe Favicon/Icon-Assets
+favicon.ico
+
+# Optional: Lokale Umgebungsvariablen
+.env
+.env.local
+
+# Optional: Debug Screenshots oder Testdaten
+/screenshots/
+*.test.txt
