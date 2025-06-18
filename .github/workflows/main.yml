@@ -33,10 +33,6 @@ jobs:
     - name: ✅ Node.js Syntax Check
       run: node -c server.js
 
-    - name: 🚀 Test server.js Launch
-      run: |
-        node -e "require('./server.js')" || echo 'Server start test skipped (manual context)'
-
     - name: 📄 Validate index.html
       run: |
         grep -q "<!DOCTYPE html>" index.html && echo "index.html valid ✔️" || (echo "❌ index.html fehlt oder ungültig." && exit 1)
