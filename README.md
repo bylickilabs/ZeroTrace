@@ -9,7 +9,7 @@
 |![ZerroTrace_github](https://github.com/user-attachments/assets/72c75c83-86b5-4cde-b91c-2abf64e44e8c)|
 |---|
 
-||![image](https://github.com/user-attachments/assets/ef5e5388-34ab-4f55-841b-6eaf4bcbce61)|
+|![image](https://github.com/user-attachments/assets/ef5e5388-34ab-4f55-841b-6eaf4bcbce61)|
 |---|
 
 - **ZeroTrace** ist ein webbasiertes Hacker-Simulationsspiel mit:
