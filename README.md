@@ -6,8 +6,8 @@
 | ![Upload](https://img.shields.io/badge/upload-enabled-blueviolet?style=flat-square) | ![TerminalUI](https://img.shields.io/badge/interface-terminal-11111?style=flat-square) | ![MIT](https://img.shields.io/badge/security-sandboxed-critical?style=flat-square) | ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square) | ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) |
 |---|---|---|---|---|
 
-|![ZerroTrace_github](https://github.com/user-attachments/assets/72c75c83-86b5-4cde-b91c-2abf64e44e8c)|
-|---|
+|![ZerroTrace_github](https://github.com/user-attachments/assets/72c75c83-86b5-4cde-b91c-2abf64e44e8c)|![image](https://github.com/user-attachments/assets/ef5e5388-34ab-4f55-841b-6eaf4bcbce61)|
+|---|---|
 
 - **ZeroTrace** ist ein webbasiertes Hacker-Simulationsspiel mit:
   
