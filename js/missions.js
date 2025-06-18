@@ -1,0 +1,1 @@
+// Funktionale Missions-Logik wird extern modular verwaltet.

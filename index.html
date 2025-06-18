@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>ZeroTrace Complete</title>
+  <link rel="stylesheet" href="style/terminal.css">
+  <style>
+    #quickref {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background: #111;
+      color: #00ffcc;
+      padding: 1rem;
+      border: 1px solid #00ffcc;
+      font-family: monospace;
+      display: none;
+    }
+    #status-bar {
+      position: fixed;
+      bottom: 1rem;
+      left: 1rem;
+      background: #111;
+      color: #00ffcc;
+      padding: 1rem;
+      border: 1px solid #00ffcc;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1><center>ZeroTrace: Full Version</center></h1>
+    <div class="terminal-output" id="terminal-output"></div>
+    <input id="terminal-input" placeholder="> type [help]" autofocus />
+    <div id="quickref">
+      <strong>Befehle:</strong><br>
+      help<br>
+      clear<br>
+      uploadFile<br>
+      unlock [tool]<br>
+      showMap<br>
+      run<br>
+      ddosSim<br>
+      passCrack<br>
+      logParse<br>
+      stegoFind<br>
+    </div>
+    <div id="status-bar">
+      <span>Reputation: 0</span>
+      <span>Level: 1</span>
+    </div>
+  </div>
+  <script type="module" src="js/coreEngine.js"></script>
+</body>
+</html>

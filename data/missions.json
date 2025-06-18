@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Initial Breach",
+    "objective": "Execute standard reconnaissance and decode response.",
+    "steps": ["fileUp", "tokenSniff"],
+    "unlockTools": ["linkGrab", "redirectCheck"]
+  },
+  {
+    "id": 2,
+    "name": "Extract Exploits",
+    "objective": "Collect links and verify redirection attacks.",
+    "steps": ["linkGrab", "redirectCheck"],
+    "unlockTools": ["ddosSim"]
+  },
+  {
+    "id": 3,
+    "name": "Apply Network Pressure",
+    "objective": "Run a simulated DDoS attack for load testing.",
+    "steps": ["ddosSim"],
+    "unlockTools": ["uploadFile", "showMap"]
+  },
+  {
+    "id": 4,
+    "name": "Stego Scan",
+    "objective": "Unlock hidden data in image payloads.",
+    "steps": ["uploadFile", "stegoFind"],
+    "unlockTools": []
+  }
+]
