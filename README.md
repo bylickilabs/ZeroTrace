@@ -1,4 +1,4 @@
-# ZeroTrace
+# ZeroTrace [![ZeroTrace CI](https://github.com/bylickilabs/ZeroTrace/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/ZeroTrace/actions/workflows/main.yml)
 
 | ![Status](https://img.shields.io/badge/status-stable-brightgreen?style=flat-square) | ![Platform](https://img.shields.io/badge/platform-web--based-lightgrey?style=flat-square) | ![Backend](https://img.shields.io/badge/backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Frontend](https://img.shields.io/badge/frontend-HTML%2FCSS%2FJS-orange?style=flat-square&logo=javascript&logoColor=white) |
 |---|---|---|---|
