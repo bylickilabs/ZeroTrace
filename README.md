@@ -45,15 +45,35 @@
 
 ```
 ZeroTrace/
-├── index.html        # Hauptinterface (Terminal)
-├── js/
-│ ├── coreEngine.js   # Spiel-Logik und Tool-Verhalten
-│ └── missions.js     # Externe Missionsstruktur (optional)
+├── assets/sounds
+│          ├── altert.wav
+│
+├── data/sites
+│   │    ├── darknet.html.html
+│   │    ├── gov-portal.html
+│   │    ├── nexuscorp.html
+│   │
+│   ├── coreEngine.js
+│   ├── server.js
+│   ├── missions.js
+│
+├── js
+│   ├── coreEngine.js
+│
+├── node_modules
+│
 ├── style/
-│ └── terminal.css    # Interface-Styling
-├── uploads/          # Hochgeladene Dateien (wird automatisch erzeugt)
-├── server.js         # Node.js Backend für Datei-Upload
-└── ServerStart.bat   # Startskript für Frontend + Backend + Browser
+│   └── terminal.css
+│
+├── uploads/
+│   ├── ──<             < ┐
+│                         │
+├── index.html            │
+├── package.json          │
+├── server.js             │
+├── ServerStart.bat       │
+└── upload.log ── ── ── ─ ┘
+    └──(Automatic process - Tools </> uploadFile)
 ```
 
 <br>
